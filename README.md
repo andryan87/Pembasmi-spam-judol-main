@@ -1,7 +1,5 @@
 <h1>Berikut adalah panduan lengkap program pembasmi komen judol</h1>
 
-[Video penjelasan teknis](https://www.youtube.com/watch?v=xnltMa90-f8)
-
 Langkah 1: Instal Node.js
 - Kunjungi situs resmi: https://nodejs.org/
 - Unduh versi LTS (disarankan untuk sebagian besar pengguna)
